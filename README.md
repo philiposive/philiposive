@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Philip
 - 👀 I’m interested in sentiment analysis
 - 🌱 I’m currently learning Python
-- 📫 You can reach me at hephilip@yahoo.ca
+- 📫 You can reach me at luhe5704@gmail.com
 
 <!---
 philiposive/philiposive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
